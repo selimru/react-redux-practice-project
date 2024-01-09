@@ -1,0 +1,3 @@
+export const DATA_REQUEST = 'DATA_REQUEST'
+export const DATA_FECTCHING = 'DATA_FECTCHING'
+export const DATA_ERROR = 'DATA_ERROR'
